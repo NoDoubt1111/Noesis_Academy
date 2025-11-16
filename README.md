@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# 🎮 Noesis Academy
+
+Story-driven 3D math learning game that transforms abstract formulas into epic adventures.
+
+
+## ✨ Features
+
+- 3D graphics with Three.js
+- Interactive mathematical visualizations
+- Story-driven learning
+- Real-time graph updates
+- Progress saving
+- Celebration animations
+
+## 🛠️ Tech Stack
+
+- React.js
+- Three.js (3D graphics)
+- Chart.js (visualizations)
+- Math.js (computations)
+
+## 📦 Installation
+```bash
+npm install
+npm start
+```
+
+## 🎯 Hackathon
+
+Built for Computer Science Girlies Hackathon
+Track: Make Learning Fun - Gamify the Learning Journey
+
+
+
+Made with ❤️ for math education
